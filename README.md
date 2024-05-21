@@ -1,0 +1,2 @@
+# tirthed
+Magic ratio
